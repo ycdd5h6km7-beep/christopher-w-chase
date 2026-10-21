@@ -11,4 +11,4 @@ Youtube Test Embed
 
 
 
-{% include card.html text="This is my most recent publication" header="Newly published" img=/assets/img/Temp-Head-Shot.jpg" %}
+{% include card.html text="This is my most recent publication" header="Newly published" img="Temp-Head-Shot.jpg" %}
